@@ -5,7 +5,6 @@
 </div>
 
 
-
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 12px;">
     <img src="https://github.com/agatepirate/agatepirate/blob/main/yes%20yes.png?raw=true" width="120">
