@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" 
-       height="25">
-</div>
-<div style="display:flex; justify-content:center;">
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" 
-       width="25" 
-       style="transform: rotate(90deg); margin-right:10px;">
-  <div>
 
 
 <div align="center">
@@ -39,24 +30,6 @@
 
 ![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruhbruhbruh.png?raw=true)
 
-
-<div align="center" style="display:flex; justify-content:center; gap:10px;">
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" height="20" style="transform: rotate(180deg);">
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" height="20" style="transform: rotate(180deg);">
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" height="20" style="transform: rotate(180deg);">
-</div>
-
-  </div>
-
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" 
-       width="25" 
-       style="transform: rotate(270deg); margin-left:10px;">
-</div>
-
-<div align="center">
-  <img src="https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Lace_with_Flowers_PNG_Clipart_Picture.png?m=1629792274" 
-       height="25" 
-       style="transform: rotate(180deg);">
 </div>
 
 
