@@ -1,1 +1,1 @@
-![image alt](https://github.com/agatepirate/agatepirate/blob/main/Zrzut%20ekranu%202025-12-05%20205250.png?raw=true)
+![image alt](https://github.com/agatepirate/agatepirate/blob/main/github%20readme!.png?raw=true)
