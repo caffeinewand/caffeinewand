@@ -5,11 +5,7 @@
 </div>
 <div align="center">
   <div style="display: inline-flex; align-items: center; gap: 15px;">
-
-    <!-- Mały GIF -->
     <img src="https://i.pinimg.com/originals/39/01/cc/3901ccb2bccc18d28c556c00079f4293.gif" width="90">
-
-    <!-- Kot + link + licznik -->
     <div style="display: flex; flex-direction: column; align-items: center; gap: 4px;">
       <img src="https://github.com/agatepirate/agatepirate/blob/main/yes%20yes.png?raw=true" width="120">
       <a href="https://agatepirate.atabook.org/" style="font-size: 16px; line-height: 1;">my atabook</a>
