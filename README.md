@@ -40,7 +40,7 @@
 </div><p align="center" style="margin-top: -850px; position: relative; z-index: 10;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
-    width="80%"
+    width="74%"
     style="
       display: block;
       margin: 0 auto;
