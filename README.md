@@ -33,15 +33,17 @@
     width="75%"
   >
 </div>
-
-<p align="center" style="margin-top: -999999px; position: relative; z-index: 10;">
+<p align="center" style="margin-top: -850px; position: relative; z-index: 10;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
     width="70%"
-    style="display: block; margin: 0 auto;"
+    style="
+      display: block;
+      margin: 0 auto;
+      clip-path: inset(0 0 20% 0);
+    "
   >
 </p>
-
 
 
 
