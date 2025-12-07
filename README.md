@@ -33,11 +33,13 @@
     width="75%"
   >
 </div>
-<p align="center" style="margin-top: -120px;">
+
+<p align="center" style="margin-top: -600px;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
     width="60%"
   >
 </p>
+
 
 
