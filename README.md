@@ -28,7 +28,7 @@
 </div>
 
 
-![image alt](https://github.com/agatepirate/agatepirate/blob/main/bruhbruhbruh.png?raw=true)
+![image alt](https://github.com/agatepirate/agatepirate/blob/main/Untitled361.png?raw=true)
 
 </div>
 
