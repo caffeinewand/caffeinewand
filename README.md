@@ -34,10 +34,10 @@
   >
 </div>
 
-<p align="center" style="margin-top: -40px;">
+<p align="center" style="margin-top: -60px;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
-    width="60%"
+    width="75%"
   >
 </p>
 
