@@ -27,9 +27,11 @@
   </table>
 </div>
 
-
-![image alt](https://github.com/agatepirate/agatepirate/blob/main/Untitled361.png?raw=true)
-
+<div align="center">
+  <img 
+    src="https://github.com/agatepirate/agatepirate/blob/main/Untitled361.png?raw=true" 
+    width="60%"
+  >
 </div>
 
 
