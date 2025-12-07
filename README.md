@@ -32,23 +32,16 @@
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled361.png?raw=true" 
     width="75%"
   >
-</div><div style="
-  width: 70%;
-  margin: 0 auto;
-  margin-top: -850px;
-  overflow: hidden;
-  position: relative;
-  z-index: 10;
-  height: auto;
-  max-height: calc(100% - 20%);
-  clip-path: inset(0 0 20% 0);
-">
+</div><p align="center" style="margin-top: -850px; position: relative; z-index: 10;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
-    style="width: 100%; display: block;"
-  >
-</div>
-
+    width="70%"
+    style="
+      display: block;
+      margin: 0 auto;
+      clip-path: inset(0 0 20% 0);
+    "  >
+</p>
 
 
 
