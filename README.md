@@ -32,7 +32,7 @@
 <p align="center">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/bruh%2022.png?raw=true"
-    style="width: 80%;"
+    style="width: 75%;"
   >
 </p>
 
@@ -40,7 +40,7 @@
 </div><p align="center" style="margin-top: -850px; position: relative; z-index: 10;">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled369.png?raw=true" 
-    width="74%"
+    width="80%"
     style="
       display: block;
       margin: 0 auto;
