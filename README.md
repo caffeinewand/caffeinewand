@@ -31,7 +31,7 @@
 <p align="center">
   <img 
     src="https://github.com/agatepirate/agatepirate/blob/main/Untitled394.png?raw=true"
-    style="width: 75%;"
+    style="width: 60%;"
   >
 </p>
 
