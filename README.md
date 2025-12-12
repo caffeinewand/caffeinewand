@@ -24,6 +24,4 @@
 
 
 
-
-  </table>
- <always c*h freely>&nbsp;&nbsp;&nbsp;&nbsp;
+always c*h freely!
