@@ -22,8 +22,7 @@
 </div>
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="100" style="margin-right: 20px;" />
-  <div style="font-size: 16px;">
-    this is Morvian, pls say hi to him on my 
+  <div style="font-size: 16px;">    this is Morvian, pls say hi to him on my 
     <a href="https://agatepirate.atabook.org/" style="font-size:16px;">atabook</a>
   </div>
 </div>
