@@ -4,7 +4,7 @@
     <tr>
       <!-- GIF -->
       <td>
-        <img src="https://i.pinimg.com/originals/39/01/cc/3901ccb2bccc18d28c556c00079f4293.gif" width="350">
+        <img src="https://i.pinimg.com/originals/a9/9d/57/a99d5708b68d44cdc725c59e17cc2167.gif" width="350">
       </td>
       <td style="padding-left: 10px;">
         <div style="
