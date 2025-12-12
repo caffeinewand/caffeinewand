@@ -19,5 +19,5 @@
       </td>
     </tr>
   </table>
-  <a href="https://agatepirate.atabook.org/" style="font-size:16px;">atabook</a>
+ my <a href="https://agatepirate.atabook.org/" style="font-size:16px;">atabook</a>
 </div>
