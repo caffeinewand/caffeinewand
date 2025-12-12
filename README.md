@@ -17,7 +17,7 @@
         </div>
       </td>
       <td style="padding-left: 20px;">
-        <img src="https://github.com/agatepirate/agatepirate/blob/main/yes%20yes.png?raw=true" width="120">
+
       </td>
       <td style="padding-left: 10px;">
         <a href="https://agatepirate.atabook.org/" style="font-size:16px;">my atabook</a>
