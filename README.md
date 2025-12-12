@@ -20,13 +20,10 @@
     </tr>
   </table>
 </div>
-
-
-      
-<p style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="100" style="margin-right: 20px;" />
-  <span>
-    this is Morvian pls say hi to him on my 
-    <a href="https://agatepirate.atabook.org/" style="font-size:16px;">my atabook</a> 
-  </span>
-</p>
+  <div style="font-size: 16px;">
+    this is Morvian, pls say hi to him on my 
+    <a href="https://agatepirate.atabook.org/" style="font-size:16px;">atabook</a>
+  </div>
+</div>
