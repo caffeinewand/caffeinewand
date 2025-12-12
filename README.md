@@ -17,5 +17,5 @@
         </div>
       </td>
       <td style="padding-left: 20px;">
-        <img src="https://github.com/agatepirate/agatepirate/blob/main/yes%20yes.png?raw=true" width="120">
+        <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled402.png?raw=true" width="120">
       </td>
