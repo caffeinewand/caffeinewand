@@ -19,3 +19,9 @@
       <td style="padding-left: 20px;">
         <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled402.png?raw=true" width="120">
       </td>
+
+
+
+   <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=000000&style=flat-square">
+        </div>
+      </td>
