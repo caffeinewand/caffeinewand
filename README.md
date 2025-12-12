@@ -20,6 +20,6 @@
     </tr>
   </table>
 </div>
-<a href="https://agatepirate.atabook.org/" style="font-size:16px;">atabook</a>
+                                         <a href="https://agatepirate.atabook.org/" style="font-size:16px;">atabook</a>
   </div>
 </div>  
