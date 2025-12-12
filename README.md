@@ -21,7 +21,7 @@
       </td>
       
 <p style="display: flex; align-items: center;">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="80" style="margin-right: 20px;" />
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/morvian.png?raw=true" width="100" style="margin-right: 20px;" />
   <span>
     this is Morvian pls say hi to him on my 
     <a href="https://agatepirate.atabook.org/" style="font-size:16px;">my atabook</a> 
