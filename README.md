@@ -6,7 +6,9 @@
 <a href="https://agatepirate.atabook.org/">my atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
 
 ${\textsf{\color{#4C2F4A}Agate/Agat , intp}}$
+
 ${\textsf{\color{#4C2F4A}n.1 fan of Balthazar Button}}$
+
 ${\textsf{\color{#4C2F4A}always c*h freely!}}$
 
 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=054279&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
