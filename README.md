@@ -23,7 +23,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
 
 
-<h3 style="color:#e67e22">✨ Features</h3>
+![info](https://img.shields.io/badge/info-custom%20text-c2410c)
+
+
 
 
 
