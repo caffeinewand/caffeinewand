@@ -1,6 +1,5 @@
 <div align="center">  
           
-
  <img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mr-button-imagetourl.cloud-1766343696492-yo2fbd.png" width="500">
  
   ${\textsf{\color{#a8bba4}Agate/Agat ,intp}}$ 
