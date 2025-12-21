@@ -11,7 +11,7 @@
           display: inline-block;
           border-radius: 6px;
         ">
-          <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=054279&style=flat-square">
+          <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=685C1D&style=flat-square">
         </div>
       </td>
       <td style="padding-left: 20px;">
