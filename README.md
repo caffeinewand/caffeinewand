@@ -16,7 +16,7 @@
   <img
     src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Untitled421-imagetourl.cloud-1766324592880-m2onwl.png"
     width="120" />
-</div> <div align="center">
+</div>
 ${\textsf{\color{#A24701}my ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp; 
 ${\textsf{\color{#A24701}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a> 
 ${\textsf{\color{#685C1D}always c+h freely!}}$
