@@ -18,13 +18,5 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 <details align="center">
   <summary>
-    <span style="color:#4C2F4A;"><b>fandoms im in:</b></span>
+  ${\textsf{\color{#4C2F4A}fandoms im in:}}$
   </summary>
-
-  <p style="color:#685C1D; margin-top:10px;">
-    Delicious in Dungeon<br>
-    Tolkien<br>
-    Beastars<br>
-    Adventure Time
-  </p>
-</details>
