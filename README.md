@@ -17,6 +17,4 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 <details>${\textsf{\color{#4C2F4A}fandoms im in:}}$
 
 <details align="center">
-  <summary>
-  ${\textsf{\color{#4C2F4A}fandoms im in:}}$
-  </summary>
+  <${\textsf{\color{#4C2F4A}fandoms im in:}}$>
