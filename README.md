@@ -7,7 +7,7 @@
   
 ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#95a093}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
 
-${\textsf{\color{#695f6b}n.1 fan of Balthazar Button}}$
+${\textsf{\color{#695f6b}no.1 fan of Balthazar Button}}$
 
 ${\textsf{\color{#4C2F4A}always c*h freely!}}$
 
