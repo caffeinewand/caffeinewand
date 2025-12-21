@@ -15,7 +15,7 @@
         </div>
       </td>
       <td style="padding-left: 20px;">
-        <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled402.png?raw=true" width="120">
+        <img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/Untitled421-imagetourl.cloud-1766324592880-m2onwl.png" width="120">
       </td>
     </tr>
   </table>
