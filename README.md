@@ -14,8 +14,7 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<details>
-${\textsf{\color{#4C2F4A}fandoms im in are: lotr, the hobbit, hp, ninjago, pusheen the cat, minecraft and more!}}$
+<details>${\textsf{\color{#4C2F4A}fandoms im in:}}$
  <p>
  zupa cos 
  twoja matka
