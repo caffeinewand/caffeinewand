@@ -6,7 +6,6 @@
 
 
 always c*h freely!
-
 <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=054279&style=flat-square">
 
-   <img src="https://64.media.tumblr.com/227099a146fca3e1c878b50a7f9ab791/b8ecce5cef1c4bf5-a7/s640x960/433c1c70a3aa5e6e32eece7c4139131a2a18ae4f.pnj" width="350">
+   <img src="https://64.media.tumblr.com/227099a146fca3e1c878b50a7f9ab791/b8ecce5cef1c4bf5-a7/s640x960/433c1c70a3aa5e6e32eece7c4139131a2a18ae4f.pnj" width="800">
