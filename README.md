@@ -2,7 +2,7 @@
           
  <img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mr-button-imagetourl.cloud-1766343696492-yo2fbd.png" width="500">
  
-  ${\textsf{\color{#a8bba4}Agate/Agat ,intp}}$ 
+  ${\textsf{\color{#a8bba4}agate/agat/piratka/kit}}$ 
   
 ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#95a093}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
 
