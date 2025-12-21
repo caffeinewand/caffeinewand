@@ -5,8 +5,7 @@
  
   ${\textsf{\color{#a8bba4}Agate/Agat , intp}}$
   
-<a href="https://agatepirate.atabook.org/">my atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
-
+${\textsf{\color{#95a093}my ataboo}}$ <a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;<a ${\textsf{\color{#95a093}about m}}$ href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"e</a>
 
 ${\textsf{\color{#695f6b}n.1 fan of Balthazar Button}}$
 
