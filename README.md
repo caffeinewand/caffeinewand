@@ -15,3 +15,16 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <details>${\textsf{\color{#4C2F4A}fandoms im in:}}$
+
+<details align="center">
+  <summary>
+    <span style="color:#4C2F4A;"><b>fandoms im in:</b></span>
+  </summary>
+
+  <p style="color:#685C1D; margin-top:10px;">
+    Delicious in Dungeon<br>
+    Tolkien<br>
+    Beastars<br>
+    Adventure Time
+  </p>
+</details>
