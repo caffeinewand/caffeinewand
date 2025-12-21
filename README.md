@@ -23,6 +23,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a>
 
 
-<font color="#d97706">always c*h freely! </font>
+<span style="color:#cc6600;">ciemny pomarańczowy tekst</span>
+
 
 
