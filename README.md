@@ -16,7 +16,7 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 
 <details>
-  <summary><b>my interests</b></summary>
+  <summary><b>${\textsf{\color{#4C2F4A}fandoms im in</b></summary>
 
   <p>
     – coding<br>
