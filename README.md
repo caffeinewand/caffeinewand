@@ -7,8 +7,6 @@
   ${\textsf{\color{#695f6b}no.1 fan of Balthazar Button}}$
 
 ${\textsf{\color{#4C2F4A}always interact freely, offtab a lot but i always try to respond to whispers}}$
-${\textsf{\color{#4C2F4A}fandoms im in are: lotr, the hobbit, hp, ninjago, pusheen the cat, minecraft and more!}}$
-
 
 ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#95a093}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a>
 
