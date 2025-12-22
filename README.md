@@ -2,7 +2,9 @@
 
   
 <img src="https://image2url.com/images/1766426175049-746aba64-ebcc-44ff-94ee-79d87c3b64e6.png" width="500"> <br>
-  <img src="https://image2url.com/images/1766426335302-43b9679d-fe2f-4c82-86ff-2bfbe472aa8e.png" width="500">
+
+
+<img src="https://image2url.com/images/1766426335302-43b9679d-fe2f-4c82-86ff-2bfbe472aa8e.png" width="500">
 
   ${\textsf{\color{#a8bba4}agate/agat/button/piratka}}$
   
