@@ -5,7 +5,7 @@
   ${\textsf{\color{#a8bba4}agate/agat/button/piratka}}$
   
 ${\textsf{\color{#695f6b}offtab a lot but i always try to respond to whispers}}$  <br>
-${\textsf{\color{#695f6b}interact freely, im not the yapper type but I really enjoy cuds and whispers}}$<br>
+${\textsf{\color{#695f6b}interact freely, im not the yapper type but I really enjoy cuds}}$<br>
 ${\textsf{\color{#695f6b}I have very bad memory so I may not remember something}}$ 
 
  ${\textsf{\color{#4f3954}no.1 fan of Balthazar Button trust trust}}$  <br>
