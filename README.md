@@ -17,7 +17,7 @@ ${\textsf{\color{#95a093}my ataboo}}$<a href="https://agatepirate.atabook.org/">
 
 
 
-<img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mr-button-imagetourl.cloud-1766343696492-yo2fbd.png" width="180" align="left">
+<img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mr-button-imagetourl.cloud-1766343696492-yo2fbd.png" width="500" align="left">
 
 
   ${\textsf{\color{#a8bba4}agate/agat/button/piratka}}$
