@@ -7,10 +7,10 @@
 
 <img src="https://image2url.com/images/1766426335302-43b9679d-fe2f-4c82-86ff-2bfbe472aa8e.png" width="500">
 
-  ${\textsf{\color{#a8bba4}agate/agat/button/piratka}}$
+  ${\textsf{\color{#a8bba4}agate/agat/piratka}}$
   
 ${\textsf{\color{#695f6b}offtab a lot but i always try to respond to whispers}}$  <br>
-${\textsf{\color{#695f6b}interact freely, im not the yapper type but I really enjoy cuds}}$<br>
+${\textsf{\color{#695f6b}interact freely,not the yapper type, thats all gulps }}$<br>
 
  ${\textsf{\color{#4f3954}no.1 fan of Balthazar Button trust trust}}$ 
  
