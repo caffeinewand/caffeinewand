@@ -5,8 +5,11 @@
 <div style="display:flex; gap:20px; align-items:center;">
   <img src="https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mr-button-imagetourl.cloud-1766343696492-yo2fbd.png" width="450">
   <div>
-    tekst obok zdjęcia<br>
-    kolejna linia
+  
+${\textsf{\color{#695f6b}offtab a lot but i always try to respond to whispers}}$  <br>
+${\textsf{\color{#695f6b}interact freely, im not the yapper type but I really enjoy cuds}}$<br>
+${\textsf{\color{#695f6b}I have very bad memory so I may not remember something}}$  <br>
+  
   </div>
 </div>
  
