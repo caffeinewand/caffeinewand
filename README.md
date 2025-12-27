@@ -12,10 +12,3 @@ ${\textsf{\color{#695f6b}im not the yapper type but interact freely }}$<br>
 ${\textsf{\color{#95a093}ataboo}}$<a href="https://agatepirate.atabook.org/">k</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${\textsf{\color{#95a093}about m}}$<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">e</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ${\textsf{\color{#95a093}straw pag}}$<a href="https://agatepirate.straw.page">e</a>
 
 <img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=3a2641&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
-${\textsf{\color{#695f6b}ok bye}}$<br> 
-
-<img src="https://image2url.com/r2/bucket2/images/1766838498552-67b78cc6-60fc-42b1-979c-902a580ff892.png" width="100">
