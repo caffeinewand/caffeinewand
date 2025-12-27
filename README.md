@@ -4,6 +4,7 @@
 
 
  agate/agat/piratka<br>
+ 
  intp 
   
 offtab a lot but i always try to respond to whispers <br>
