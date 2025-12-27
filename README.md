@@ -10,4 +10,4 @@ im not the yapper type but interact freely <br>
  
 <a href="https://agatepirate.atabook.org/">atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">strawpage</a>
 
-<img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=#ffffff&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=ffffff&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
