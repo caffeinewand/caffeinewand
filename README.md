@@ -16,4 +16,4 @@ ${\textsf{\color{#95a093}ataboo}}$<a href="https://agatepirate.atabook.org/">k</
 
 
 
-${\textsf{\color{#695f6b}ok bye}}$<br> <img src="https://image2url.com/r2/bucket2/images/1766838375562-0bb95c7b-c7bd-4535-a5d3-eed50121c1df.png" width="600">
+${\textsf{\color{#695f6b}ok bye}}$<br> <img src="https://image2url.com/r2/bucket2/images/1766838498552-67b78cc6-60fc-42b1-979c-902a580ff892.png" width="100">
