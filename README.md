@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://i.pinimg.com/1200x/c4/67/34/c467346e20fe142e2b71d6821c29af51.jpg" width="400"> <br>
+<img src="https://i.pinimg.com/1200x/c4/67/34/c467346e20fe142e2b71d6821c29af51.jpg" width="280"> <br>
 
 
  agate/agat/piratka
