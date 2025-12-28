@@ -5,7 +5,7 @@
 
  agate/agat/piratka<br>
  
-bad memory, intp 
+female, bad memory, intp 
   
 offtab a lot but i always try to respond to whispers <br>
 c*h always fine
