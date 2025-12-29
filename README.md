@@ -16,5 +16,3 @@ c*h always fine, I love interacting
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=2d4255&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
-
-im not 19 trust
