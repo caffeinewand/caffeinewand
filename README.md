@@ -4,9 +4,8 @@
 
 
  agate/agat/piratka<br>
- 
-  lowkey bad memory, intp 
-  
+
+  lowkey bad memory, intp <br>
 offtab a lot but i always try to respond to whispers <br>
 c*h always fine
  
