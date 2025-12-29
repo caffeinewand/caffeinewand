@@ -7,9 +7,8 @@
 
   lowkey bad memory, intp <br>
 offtab a lot but i always try to respond to whispers <br>
-c*h always fine, I love interacting 
+c*h always fine, I love interacting  <br>
 <a href="https://agatepirate.atabook.org/">atabook</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">about me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">strawpage</a>
 
 <img src="https://i.postimg.cc/9QqRBPpk/IMG-8014.gif"> <br>
-<img src="https://i.postimg.cc/vTQJ2rrM/A49-A467-F-810-A-4-A4-E-8308-11-E814-D69467.gif" width="80"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=2d4255&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
