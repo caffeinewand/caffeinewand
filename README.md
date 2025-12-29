@@ -10,4 +10,3 @@ c*h always fine, I love interacting
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">straw</a>
 
 <img src="https://i.postimg.cc/9QqRBPpk/IMG-8014.gif"> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=agatepirate&label=Profile+Views&color=2d4255&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
