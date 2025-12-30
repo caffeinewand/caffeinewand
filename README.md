@@ -1,7 +1,7 @@
 <div align="center"> 
  
 <img src="https://i.pinimg.com/originals/7a/de/52/7ade5288459b596e927f3eadbb619f8c.gif" width="330"> <br>
-agate/agat/piratka <img src="https://pixels.crd.co/assets/images/gallery18/1adc55ca.gif?v=29416114" width="50" >
+agate/agat/piratka <img src="https://pixels.crd.co/assets/images/gallery18/1adc55ca.gif?v=29416114" width="20" >
 
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">strw</a>
 
