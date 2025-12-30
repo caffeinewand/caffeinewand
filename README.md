@@ -7,4 +7,4 @@ agate/agat/piratka
 
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp;  <a href="https://agatepirate.straw.page">strw</a>
 
- <sub>im a</sub>  <img src="https://adriansblinkiecollection.neocities.org/v9.gif"> <sub>trust</sub>
+<img src="https://adriansblinkiecollection.neocities.org/v9.gif"> 
