@@ -8,6 +8,6 @@ agate/agat/piratka <img src="https://artwork.neocities.org/pixels/tiny/disney/pr
 <details>
 <summary>dni</summary>
 
-not you <img src="https://artwork.neocities.org/pixels/tiny/disney/princess/41936474.gif">
+no one <img src="https://artwork.neocities.org/pixels/tiny/disney/princess/41936474.gif">
 
 </details>
