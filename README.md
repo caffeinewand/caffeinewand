@@ -1,5 +1,5 @@
 <div align="center"> 
-&nbsp;&nbsp;&nbsp; ![Profile views](https://komarev.com/ghpvc/?username=agatepirate)&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; ![Profile views](https://komarev.com/ghpvc/?username=agatepirate)  &nbsp;&nbsp;&nbsp;
  
 <img src="https://i.pinimg.com/1200x/97/43/3f/97433f8a32f2469ea8a881ee6e8c8896.jpg" width="330"> <br>
 agate/agat/piratka <img src="https://artwork.neocities.org/pixels/tiny/disney/princess/44431082.gif"> <br>
