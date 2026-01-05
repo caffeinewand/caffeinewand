@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![Profile views](https://komarev.com/ghpvc/?username=agatepirate&color=4C2F4A)
+![Profile views](https://komarev.com/ghpvc/?username=agatepirate&color=473026)
   
 <img src="https://i.pinimg.com/originals/a8/72/0c/a8720c9585c06daf28ca918f78baa0ba.gif"> <br>
 agate/agat/piratka <br> <img src="https://artwork.neocities.org/photos/blinkies/yeehaw.gif"> <br>
