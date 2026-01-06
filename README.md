@@ -8,3 +8,7 @@ int freely, no need to whisp <br>
 
 
 <img src="https://artwork.neocities.org/photos/blinkies/past.gif">
+
+did you know that you can just <br>
+<img src="https://artwork.neocities.org/photos/night/skull22.gif">
+when you want?
