@@ -24,8 +24,7 @@
         text-anchor="middle"
         font-size="64"
         font-family="Arial, Helvetica, sans-serif"
-        fill="url(#grad)">
-    agate/piratka/agat
+        fill="url(#grad)">  agate/piratka/agat
   </text>
 </svg>
 
