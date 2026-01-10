@@ -8,7 +8,7 @@
   <img src="https://github.com/agatepirate/agatepirate/blob/main/about%20me%20png%202.png?raw=true"width=70>
 </a>
 <a href="https://agatepirate.straw.page">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/strawpage%20png.png?raw=true"width=70>
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true"width=70>
 </a> <br>
 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down22.png?raw=true" width=480>
