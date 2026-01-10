@@ -6,7 +6,7 @@
 
 
 <a href="https://agatepirate.atabook.org/">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true">
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true width=80">
 </a>
 <a href="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true">
   <img src="https://pic4net.com/pm-OY4K3C.html">
