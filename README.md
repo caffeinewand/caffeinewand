@@ -15,5 +15,5 @@
 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down22.png?raw=true" width=530>
 
-
+![](gradient.svg)
 
