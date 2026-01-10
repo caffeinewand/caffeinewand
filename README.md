@@ -6,13 +6,13 @@
 
 
 <a href="https://agatepirate.atabook.org/">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true width=60">
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true" width=70>
 </a>
-<a href="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true">
-  <img src="https://pic4net.com/pm-OY4K3C.html">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/about%20me%20png%202.png?raw=true"width=70>
 </a>
-<a href="https://github.com/agatepirate/agatepirate/blob/main/ata%20png.png?raw=true">
-  <img src="https://pic4net.com/pm-OY4K3C.html">
+<a href="https://agatepirate.straw.page">
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/strawpage%20png.png?raw=true"width=70>
 </a>
 
 
