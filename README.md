@@ -1,6 +1,7 @@
 <div align="center"> 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down21.png?raw=true" width=530> <br><br>
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=480> <br>
+
 <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad">
@@ -25,7 +26,7 @@
         font-size="64"
         font-family="Arial, Helvetica, sans-serif"
         fill="url(#grad)">
-    AGATE TU SWÓJ TEKST
+    WPISZ TU SWÓJ TEKST
   </text>
 </svg>
 
