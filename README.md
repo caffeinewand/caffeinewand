@@ -10,7 +10,7 @@
   <img src="https://github.com/agatepirate/agatepirate/blob/main/about%20me%20png%202.png?raw=true"width=90>
 </a>
 <a href="https://agatepirate.straw.page">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true"width=94>
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true"width=95>
 </a> <br>
 
 
