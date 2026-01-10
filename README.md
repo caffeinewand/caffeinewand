@@ -4,3 +4,10 @@
 <a href="https://agatepirate.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp; <a href="https://agatepirate.straw.page">strw</a> <br>
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down22.png?raw=true" width=480>
 
+
+
+https://pic4net.com/pm-OY4K3C.html ata
+https://pic4net.com/pm-1VW7RB.html straw
+https://pic4net.com/pm-1VW7RB.html ab me
+
+[![ata](https://pic4net.com/pm-OY4K3C.html)](https://agatepirate.atabook.org/)
