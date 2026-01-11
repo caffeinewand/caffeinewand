@@ -12,7 +12,7 @@
 
   <br>
 Never gonna give you up
-Never gonna let you down
+Never gonna let you down <br>
 <img src="https://i.pinimg.com/originals/96/24/2c/96242c142ff4426682f63d1bf63515ac.gif" width="400">
 </details>
 
