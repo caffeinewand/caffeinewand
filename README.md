@@ -7,7 +7,7 @@
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
 
 <details>
-  <summary><img src="summary.svg"></summary>
+  <summary><click me!></summary>
 
   <br>
 
