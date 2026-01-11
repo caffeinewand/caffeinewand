@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/agatepirate/agatepirate/9bc95f25fd21f4ccded63013666c0081fd47765f/gradient.svg" width="500"> <br>
   
-  $\color{#c8d5fe}{\textsf{agate/pirate/kori}}$ <br>
+  $\color{#c8d5fe}{\textsf{agate/pirate/character im cosplaying as}$ <br>
   
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=500> <br>
 
