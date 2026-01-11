@@ -6,16 +6,7 @@
   
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=870> <br>
 
-
-<details>
-  <summary><font color="#cbb7f8"><b>click me!</b></font></summary>
-
-  <br>
-Never gonna give you up
-Never gonna let you down <br>
-<img src="https://i.pinimg.com/originals/96/24/2c/96242c142ff4426682f63d1bf63515ac.gif" width="400">
-</details>
-
+ $\color{#c8d5fe}{\textsf{I make frames like this one ↑ for free, just ask }}$ <br>
 
 <a href="https://agatepirate.atabook.org/">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/fsfwafaw.png?raw=true" width=170>
