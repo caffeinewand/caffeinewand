@@ -1,6 +1,6 @@
 <div align="center"> 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down21.png?raw=true" width=900> <br>
-  <img src="gradient.svg" width="800"> <br>
+  
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
 
   $\color{#c8d5fe}{\textsf{best seen on pc .}}$ <br>
