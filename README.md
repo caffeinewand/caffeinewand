@@ -13,10 +13,6 @@
   <br>
 Never gonna give you up
 Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
 <img src="https://i.pinimg.com/originals/96/24/2c/96242c142ff4426682f63d1bf63515ac.gif" width="400">
 </details>
 
