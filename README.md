@@ -4,7 +4,7 @@
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
   
 <a href="https://agatepirate.atabook.org/">
-  <img src="https://github.com/agatepirate/agatepirate/blob/main/fsfwafaw.png?raw=true" width=187>
+  <img src="https://github.com/agatepirate/agatepirate/blob/main/fsfwafaw.png?raw=true" width=181>
 </a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img
