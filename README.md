@@ -1,7 +1,7 @@
 <div align="center"> 
 <img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down21.png?raw=true" width=900> <br>
-  <img src="gradient.svg" width="450"> <br>
-<img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=420> <br>
+  <img src="gradient.svg" width="800"> <br>
+<img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
   
 <a href="https://agatepirate.atabook.org/">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/fsfwafaw.png?raw=true" width=79>
