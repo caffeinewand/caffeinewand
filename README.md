@@ -6,6 +6,21 @@
   
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=900> <br>
 
+<details>
+  <summary>
+    <span style="color:#b22743;"><b>test</b></span>
+  </summary>
+
+  <br>
+
+  <span style="color:#5e144b;">
+    • test  
+    • test 
+    • test
+  </span>
+</details>
+
+
 <a href="https://agatepirate.atabook.org/">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/fsfwafaw.png?raw=true" width=170>
 </a>
