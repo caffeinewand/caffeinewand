@@ -5,9 +5,6 @@
   $\color{#c8d5fe}{\textsf{best seen on pc .}}$ <br>
   
 <img src="https://github.com/agatepirate/agatepirate/blob/main/caine%20rentry%202.png?raw=true" width=800> <br>
-
- $\color{#c8d5fe}{\textsf{c*h iwc ok}}$ <br>
-
 <a href="https://agatepirate.atabook.org/">
   <img src="https://github.com/agatepirate/agatepirate/blob/main/fsfwafaw.png?raw=true" width=180>
 </a>
