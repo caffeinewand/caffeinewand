@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down21.png?raw=true" width=900> <br>
+
   <img src="https://raw.githubusercontent.com/agatepirate/agatepirate/9bc95f25fd21f4ccded63013666c0081fd47765f/gradient.svg" width="800"> <br>
   
   $\color{#c8d5fe}{\textsf{best seen on pc .}}$ <br>
@@ -15,5 +15,3 @@
   <img src="https://github.com/agatepirate/agatepirate/blob/main/Untitled461.png?raw=true" width=200>
 </a> <br>
 
-
-<img src="https://github.com/agatepirate/agatepirate/blob/main/rentry%20caine%20down22.png?raw=true" width=900>
