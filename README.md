@@ -3,7 +3,6 @@
 <img src="https://file.garden/aWP8FqT_5ESND6sC/Zrzut%20ekranu%202026-01-15%20181609.png" width=450>
   $\color{#2596be}{\textsf{This is the night mail crossing the Border,
 Bringing the cheque and the postal order,
-
 Letters for the rich, letters for the poor,
 The shop at the corner, the girl next door.
 Pulling up Beattock, a steady climb:
