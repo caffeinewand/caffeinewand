@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=-EZxJ9Bkoeg">a nice poem</a> <br> <br>
 <img src="https://file.garden/aWP8FqT_5ESND6sC/Zrzut%20ekranu%202026-01-15%20181609.png" width=450>
-  $\color{#2596be}{\textsf{This is the night mail crossing the Border,
+This is the night mail crossing the Border,
 Bringing the cheque and the postal order,
 Letters for the rich, letters for the poor,
 The shop at the corner, the girl next door.
@@ -53,4 +53,4 @@ They continue their dreams,
 But shall wake soon and hope for letters,
 And none will hear the postman's knock
 Without a quickening of the heart,
-For who can bear to feel himself forgotten?}}$ <br>
+For who can bear to feel himself forgotten?
