@@ -1,8 +1,8 @@
 
 <svg width="300" height="40"
      xmlns="http://www.w3.org/2000/svg">
-  <text x="-200" y="25" fill="#265d73" font-size="18">
-she's livin' la vida loca!
+  <text x="-200" y="25" fill="#aedbef" font-size="18">
+    jakies cos niwjeiem
     <animate attributeName="x"
              from="-200"
              to="300"
