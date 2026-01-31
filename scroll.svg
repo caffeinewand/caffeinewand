@@ -1,14 +1,14 @@
-<svg width="400" height="40" viewBox="0 0 400 40"
+<svg width="220" height="40" viewBox="0 0 220 40"
      xmlns="http://www.w3.org/2000/svg">
 
-  <text x="400" y="28"
+  <text x="220" y="28"
         font-size="20"
         fill="#265d73">
     she's livin' la vida loca!
     <animate
       attributeName="x"
-      from="300"
-      to="-250"
+      from="220"
+      to="-260"
       dur="6s"
       repeatCount="indefinite" />
   </text>
