@@ -7,8 +7,8 @@
 <a href="https://agatepirate.straw.page">STRW</a>
 
 
-$\color{#245b73}{\textsf{agate}}$
-$\color{#95b94a}{\textsf{╰┈➤ wlm ... christian}}$ <br>
+$\color{#245b73}{\textsf{agate}}$ <br>
+$\color{#95b94a}{\textsf{╰┈➤ wlm ... christian}}$
 $\color{#aedbef}{\textsf{noDNI}}$
 
 
