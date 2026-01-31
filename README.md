@@ -8,7 +8,7 @@
 
 
 $\color{#245b73}{\textsf{agate}}$
-$\color{#95b94a}{\textsf{wlm ... christian and catholic}}$
+$\color{#95b94a}{\textsf{╰┈➤ wlm ... christian}}$ <br>
 $\color{#aedbef}{\textsf{noDNI}}$
 
 
