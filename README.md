@@ -10,8 +10,8 @@
 
 <img src="https://file.garden/aWP8FqT_5ESND6sC/sssssssssssssqqqqqqqqqqqqdqf.png" width="250" align="right">
 
-tekst 2  
-tekst 2  
-tekst 2  
+jeszcze njewiem
+jeszcze njewiem
+jeszcze njewiem
 
 <br clear="right">
