@@ -7,9 +7,9 @@
 <a href="https://agatepirate.straw.page">STRW</a>
 
 
-$\color{#245b73}{\textsf{jakies cos niwjeiem}}$
-$\color{#95b94a}{\textsf{njewiem}}$
-$\color{#aedbef}{\textsf{njweiem}}$
+$\color{#245b73}{\textsf{agate}}$
+$\color{#95b94a}{\textsf{wlm ... christian&catholic}}$
+$\color{#aedbef}{\textsf{noDNI}}$
 
 
 
