@@ -7,8 +7,8 @@
     she's livin' la vida loca!
     <animate
       attributeName="x"
-      from="400"
-      to="-300"
+      from="300"
+      to="-250"
       dur="6s"
       repeatCount="indefinite" />
   </text>
