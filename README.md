@@ -1,3 +1,22 @@
-<div align="center">
-<img src="https://file.garden/aWP8FqT_5ESND6sC/Zrzut%20ekranu%202026-01-15%20181609.png" width=360> <br>
-    <a href="https://www.youtube.com/watch?v=-EZxJ9Bkoeg">a nice poem.</a> <br>
+<table>
+  <tr>
+    <td>
+      <img src="https://file.garden/aWP8FqT_5ESND6sC/sssssssssawdawda.kra" width="300">
+    </td>
+    <td>
+      tekst 1<br>
+      tekst 1<br>
+      tekst 1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      tekst 2<br>
+      tekst 2<br>
+      tekst 2
+    </td>
+    <td>
+      <img src="https://file.garden/aWP8FqT_5ESND6sC/sssssssssssssqqqqqqqqqqqqdqf.kra" width="300">
+    </td>
+  </tr>
+</table>
