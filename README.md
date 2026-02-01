@@ -5,11 +5,9 @@
 
 
 <details>
-  <summary> </summary>
+  <summary> </summary>   $\color{#265d73}{\textsf{fandoms im in}}$
 
- fandoms im in: ninjago,lotr,the hobbit,tadc,pokemon,pirates of the caribbean,minecraft,atla,tlok,harry potter
+
+  $\color{#265d73}{\textsf{ninjago,lotr,the hobbit,tadc,pokemon,pirates of the caribbean,minecraft,atla,tlok,harry potter}}$
 
 </details>
-
-
-  $\color{#c8d5fe}{\textsf{.}}$
