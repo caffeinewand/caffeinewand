@@ -8,6 +8,6 @@
   <summary> $\color{#265d73}{\textsf{fandoms im in}}$ </summary>
 
 
-  $\color{#265d73}{\textsf{ninjago,lotr,the hobbit,tadc,pokemon,arcane}}$ <br>
-  $\color{#265d73}{\textsf{pirates of the caribbean,minecraft,atla,tlok,harry potter}}$
+  $\color{#afe8f4}{\textsf{ninjago,lotr,the hobbit,tadc,pokemon,arcane}}$ <br>
+  $\color{#9fb945}{\textsf{pirates of the caribbean,minecraft,atla,tlok,harry potter}}$
 </details>
