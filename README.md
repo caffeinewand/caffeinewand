@@ -6,9 +6,3 @@
 <img src="https://files.catbox.moe/gf3sq7.gif">
 
 
-$\color{#245b73}{\textsf{}}$ <br>
-$\color{#95b94a}{\textsf{}}$
-$\color{#aedbef}{\textsf{}}$
-
-
-
