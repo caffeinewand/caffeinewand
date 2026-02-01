@@ -7,9 +7,9 @@
 <details>
   <summary> </summary>
 
-  Tu jest ukryty tekst  
-  może być kilka linijek  
-  nawet **markdown** działa 😎
+ fandoms im in: ninjago,lotr,the hobbit,tadc,pokemon,pirates of the caribbean,minecraft,atla,tlok,harry potter
 
 </details>
 
+
+  $\color{#c8d5fe}{\textsf{.}}$
