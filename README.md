@@ -3,6 +3,6 @@
 <img src="https://file.garden/aWP8FqT_5ESND6sC/sssssssssssssqqqqqqqqqqqqdqf.png" width="380"> <br>
 <a href="https://caffeinewand.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp; <a href="https://caffeinewand.straw.page">strw</a>
 <br><br>
-<img src="https://file.garden/aWP8FqT_5ESND6sC/gf3sq7.gif">
-
+<img src="https://file.garden/aWP8FqT_5ESND6sC/gf3sq7.gif"> 
+<img src="https://file.garden/aWP8FqT_5ESND6sC/monkey.gif">
 
