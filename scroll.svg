@@ -3,7 +3,7 @@
 
   <text y="28"
         font-size="20"
-        fill="#265d73">
+        fill="#614138">
     she's livin' la vida loca!
     <animate
       attributeName="x"
