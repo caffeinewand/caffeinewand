@@ -6,7 +6,7 @@
 
 
 
-<a href="https://www.youtube.com/watch?v=Gk7c8hYjz2A" target="_blank" style="text-decoration:none;">
+<a href="https://www.youtube.com/watch?v=ix8_-zWZRGQ" target="_blank" style="text-decoration:none;">
   <img 
     src="https://img.shields.io/badge/Now_Playing-Lipstick_on_the_Glass_–_Maanam-816436?style=for-the-badge&logo=musicbrainz&logoColor=white"
   >
