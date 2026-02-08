@@ -1,5 +1,5 @@
 <div align="center"> 
-$\color{#037364}{\textsf{yes, saruman was necessary here.}}$
+$\color{#037364}{\textsf{yes, saruman was necessary here, he's just cool}}$
 
 <img src="https://i.pinimg.com/originals/a9/0f/43/a90f43d7aca71096b5be4dfc12fe1f12.gif" width="900">
  
