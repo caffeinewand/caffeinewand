@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="80">
+<svg xmlns="http://www.w3.org/2000/svg">
   <text
     x="0"
-    y="55"
+    y="1em"
     fill="#d06f11"
     font-size="48"
-    font-family="Arial, Helvetica, sans-serif"
+    font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
   >
     ata
   </text>
