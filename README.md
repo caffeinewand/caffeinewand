@@ -1,5 +1,6 @@
 <div align="center"> 
- 
+
+  $\color{#037364}{\textsf{I make free banners, dm me on my second discord @caffeinewand }}$ <br>
 
 <img src="https://github.com/caffeinewand/caffeinewand/blob/main/1122121.png?raw=true" width="1000">
 
