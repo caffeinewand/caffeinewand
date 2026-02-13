@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  $\color{#faf5e4}{\textsf{Howdy! I also make free banners in my free time, dm me on my second discord}}$  $\color{#b7b0b3}{\textsf{@caffeinewand}}$   $\color{#faf5e4}{\textsf{If you want one }}$  <br>
+  $\color{#5a5f73}{\textsf{Howdy! I also make free banners in my free time, dm me on my second discord}}$  $\color{#b7b0b3}{\textsf{@caffeinewand}}$   $\color{#5a5f73}{\textsf{If you want one }}$  <br>
 
 <img src="https://github.com/caffeinewand/caffeinewand/blob/main/1122121.png?raw=true" width="1000">
 
