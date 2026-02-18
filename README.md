@@ -1,6 +1,6 @@
 <div align="center"> 
   
-#𓏲𝄢
+# 𓏲𝄢
   
 <img src="https://github.com/caffeinewand/caffeinewand/blob/main/gif.webp?raw=true" width="800">
 
