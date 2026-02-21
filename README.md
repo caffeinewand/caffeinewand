@@ -6,5 +6,3 @@
  the gif broke a bit or sum <img src="https://s5.ezgif.com/tmp/ezgif-543a0f7d2d2196bf.jpg">
 
 <a href="https://caffeinewand.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp; <a href="https://caffeinewand.straw.page">strw</a>
-
-https://s5.ezgif.com/tmp/ezgif-543a0f7d2d2196bf.jpg
