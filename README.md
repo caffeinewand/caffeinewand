@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://i.pinimg.com/originals/38/c1/b8/38c1b80f43961e9225157478c55c2166.gif" width="500"> <br>
+<img src="https://s4.ezgif.com/tmp/ezgif-4a72e89c50d44b56.gif" width="500"> <br>
  I speak english and polish, also learing esperanto and german
 <br>
 <a href="https://caffeinewand.atabook.org/">ata</a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">me</a> &nbsp;&nbsp;&nbsp; <a href="https://caffeinewand.straw.page">strw</a>
