@@ -1,6 +1,6 @@
 <div align="center"> 
   
-$\color{#c5a130}{\textsf{howdy! I usually go by caffeine. Interact with me freely on pony town, I always got a lot of time to talk!}}$  
+$\color{#c5a130}{\textsf{howdy! int freely, I always got a lot of time to talk!}}$  
 
 <img src="https://i.pinimg.com/736x/63/d1/59/63d159592d734271922691851892679f.jpg" width="370">
 
