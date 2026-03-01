@@ -1,6 +1,6 @@
 <div align="center"> 
   
-$\color{#c5a130}{\textsf{howdy! int freely, I always got a lot of time to talk!}}$  
+$\color{#c6a04e}{\textsf{howdy! int freely, I always got a lot of time to talk!}}$  
 
 <img src="https://i.pinimg.com/736x/b0/e6/10/b0e61080c0f9fa5f3e9899e4aca4815d.jpg" width="370">
 
